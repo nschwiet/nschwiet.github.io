@@ -1,33 +1,6 @@
 # main links links
 main:
 
-  - title: "Issue Statement"
-    url: /issue-statement/
-   
-   
-  - title: "Issue Paper"
-    url: /issue-paper/
-    
-    
-  - title: "Professional Development Statement"
-    url: /prof-dev-statement/
-    
-    
-  - title: "Coursework"
-    url: /coursework/
-    
-    
-  - title: "Courses"
-    url: /courses/
-    
-    
-  - title: "Advising History"
-    url: /advising-history/
-    
-    
-  - title: "Resume"
-    url: /resume/
-
   - #title: "Publications"
     #url: /publications/
 
