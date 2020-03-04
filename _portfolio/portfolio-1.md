@@ -1,6 +1,6 @@
 ---
 title: "Issue Statement"
-excerpt: "50 word statement"
+excerpt: "50 word issue statement"
 collection: portfolio
 ---
 
