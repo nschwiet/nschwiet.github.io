@@ -1,7 +1,7 @@
 ---
-title: "Issue Statement"
-excerpt: "50 word issue statement"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-As the internet becomes firmly enbedded in the infrastructural information fabric, and thus increasingly invisible, users themselves become commodified through surveillance and massification of data. Academic libraries and digital research labs, as sites for information retrieval and instruction, are spaces that can highlight the relationship between users, data, and identity through critical information literacy courses and workshops.
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
