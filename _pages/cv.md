@@ -14,49 +14,63 @@ Education
 * MLIS, University of California, Los Angeles, 2020
   * Digital Humanities Certificate
 * Bachelor of Arts in Philosophy, University of Cincinnati, 2011
-  * Honors
+  * Graduated with Honors
 
 Work experience
 ======
-* Research and Instructional Technology Consultant – UCLA Humanities Technology
+* Research and Instructional Technology Consultant – UCLA Humanities Technology, 2019-2020
   * Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
-    * Advise faculty on the learning management system for the Humanities while encouraging best practices for technology and pedagogy in the classroom.
-    * Meet and consult with faculty in the Digital Humanities Research Accelerator program to explore
-approaches for identifying research needs
-    * Assist faculty in the execution of their research through Digital Humanities best practices, utilizing data visualization, website design, and project management principles to ensure projects stay on track.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Digital Library Intern – UCLA Digital Library Program, Summer 2019
+  * Process digital collections by optimizing images, audio, and metadata in preparation for serving collections online.
+
+* Lab Assistant – UCLA GSEIS Information Studies Lab, 2018-2019
+  * Serve the Information Studies community through workshop development, maintenance of tools, and outreach.
   
+* Graduate Student Researcher – UCLA Digital Humanities Program, 2018-2019
+  * Perform analysis on curricular materials and survey results in order to develop a high level overview of the Digital Humanities minor.
+
+* Instructional Technologist – UCLA Extension: Instructional Design and Learning Support, 2013-2018
+  * Research and implement new technologies and methodologies for providing online learning experiences; develop and deliver training materials through courses, information portals, and workshops; manage system
+implementations and ensure systems are integrated in a way that maximizes the user experience.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* HTML, CSS, JS, API, Bash scripting
+* Python, PHP, SQL, R, programming
+* Adobe Photoshop, Lightroom, and Illustrator
+* Metadata XML, XSL creation and mapping
+* Github and Heroku hosting and testing
+* Wordpress, Drupal, and Omeka CMS
+* Textual mining and topic modeling
+* Tableau and R data visualization
+* Microsoft Excel, Word, and Access
+* Windows, macOS, and Linux
+* OpenRefine data cleaning
 
-Publications
+Organizations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* MLIS Student Governing Board - Co-Chair and Social Sciences Council liaison
+  * Meet with student group leaders to assess needs and host events for student socialization and involvement
+* UCLA Social Sciences Council - Graduate Students Association representative and Financial Chair
+  * Attend the Graduate Students Association forum as a voting member
+* Society for Social Studies of Science (4S) - Member
+* Association for Information Science and Technology - Member
+
+Volunteer
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* ARLIS/NA 2019 Annual Conference
+  * Assist with the setup and facilitation of the Makerspace
+* USC 2019 Archives Bazaar
+  * Greet visitors and direct participants to correct locations
+* Los Angeles Mycological Society 2019 Mushroom Fair
+  * Conduct fungi identification and answered attendee questions
+* UCLA jane b semel HCI Community Garden
+  * Host multiple workshops on fermentation, engaging students with hands-on fermentation techniques
+ 
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* UCLA Department of Information Studies Strategic Plan Revision
+  * Represented MLIS students for the departmental revision of the Strategic Plan
+* UCLA Department of Information Studies Program Manager Hiring Committee
+  * Served as the student representative on the hiring committee for the Program Manager position
