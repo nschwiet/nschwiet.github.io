@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MLIS, University of California, Los Angeles, 2020
+  * Digital Humanities Certificate
+* Bachelor of Arts in Philosophy, University of Cincinnati, 2011
+  * Honors
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research and Instructional Technology Consultant – UCLA Humanities Technology
+  * Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
+    * Advise faculty on the learning management system for the Humanities while encouraging best practices for technology and pedagogy in the classroom.
+    * Meet and consult with faculty in the Digital Humanities Research Accelerator program to explore
+approaches for identifying research needs
+    * Assist faculty in the execution of their research through Digital Humanities best practices, utilizing data visualization, website design, and project management principles to ensure projects stay on track.
 
 * Fall 2015: Research Assistant
   * Github University
