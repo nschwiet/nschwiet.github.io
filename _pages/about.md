@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nick Schwieterman, MLIS 2020"
+title: "Nick Schwieterman"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
