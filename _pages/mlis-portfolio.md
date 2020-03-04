@@ -4,7 +4,7 @@ title: "MLIS Portfolio"
 permalink: /mlis-portfolio/
 author_profile: true
 redirect_from:
-  - /portfolio
+  - /mlis
 ---
 
 {% include base_path %}
