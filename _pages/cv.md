@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-MLIS, University of California, Los Angeles, 2020
-* Digital Humanities Certificate
-Bachelor of Arts in Philosophy, University of Cincinnati, 2011
-* Graduated with Honors
+* MLIS, University of California, Los Angeles, 2020
+  * Digital Humanities Certificate
+* Bachelor of Arts in Philosophy, University of Cincinnati, 2011
+  * Graduated with Honors
 
 Work experience
 ======
-Research and Instructional Technology Consultant – UCLA Humanities Technology, 2019-2020
-* Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
+* Research and Instructional Technology Consultant – UCLA Humanities Technology, 2019-2020
+  * Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
 
-Digital Library Intern – UCLA Digital Library Program, Summer 2019
-* Process digital collections by optimizing images, audio, and metadata in preparation for serving collections online.
+* Digital Library Intern – UCLA Digital Library Program, Summer 2019
+  * Process digital collections by optimizing images, audio, and metadata in preparation for serving collections online.
 
-Lab Assistant – UCLA GSEIS Information Studies Lab, 2018-2019
-* Serve the Information Studies community through workshop development, maintenance of tools, and outreach.
+* Lab Assistant – UCLA GSEIS Information Studies Lab, 2018-2019
+  * Serve the Information Studies community through workshop development, maintenance of tools, and outreach.
   
-Graduate Student Researcher – UCLA Digital Humanities Program, 2018-2019
-* Perform analysis on curricular materials and survey results in order to develop a high level overview of the Digital Humanities minor.
+* Graduate Student Researcher – UCLA Digital Humanities Program, 2018-2019
+  * Perform analysis on curricular materials and survey results in order to develop a high level overview of the Digital Humanities minor.
 
-Instructional Technologist – UCLA Extension: Instructional Design and Learning Support, 2013-2018
-* Research and implement new technologies and methodologies for providing online learning experiences; develop and deliver training materials through courses, information portals, and workshops; manage system
+* Instructional Technologist – UCLA Extension: Instructional Design and Learning Support, 2013-2018
+  * Research and implement new technologies and methodologies for providing online learning experiences; develop and deliver training materials through courses, information portals, and workshops; manage system
 implementations and ensure systems are integrated in a way that maximizes the user experience.
 
 Skills
