@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* National Park Service Intern – SEKI National Park, Summer 2020
+  * Integrate the Sequoia and Kings Canyon National Park archive with the Online Archive of California.
+
 * Research and Instructional Technology Consultant – UCLA Humanities Technology, 2019-2020
   * Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
 
