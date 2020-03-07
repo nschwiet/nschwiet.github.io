@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here](/files/CurriculumVitae.pdf) for a PDF version of my CV.
+
 Education
 ======
-* MLIS, University of California, Los Angeles, 2020
+* **MLIS, University of California, Los Angeles, 2020**
   * Digital Humanities Certificate
-* Bachelor of Arts in Philosophy, University of Cincinnati, 2011
+* **Bachelor of Arts in Philosophy, University of Cincinnati, 2011**
   * Graduated with Honors
 
 Work experience
