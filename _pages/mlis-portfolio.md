@@ -18,16 +18,13 @@ redirect_from:
 ======
 
 
-Coursework
+[Coursework](/class-history)
 ======
 [Major Paper](/major-paper)
 
 [Elective Paper](/elective-paper)
 
 [Core Course](/core-course)
-
-[Class History](/class-history)
-======
 
 
 [Advising History](/advising-history)
