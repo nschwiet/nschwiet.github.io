@@ -4,7 +4,7 @@ title: "Nick Schwieterman"
 excerpt: "About me"
 author_profile: true
 header:
-  image: /images/28576140.jpg
+  image: 28576140.jpg
 redirect_from: 
   - /about/
   - /about.html
