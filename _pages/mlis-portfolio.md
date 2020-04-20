@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Issue Statement
-======
-
 
 Issue Paper
 ======
