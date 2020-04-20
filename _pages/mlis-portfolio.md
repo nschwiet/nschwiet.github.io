@@ -10,27 +10,31 @@ redirect_from:
 {% include base_path %}
 
 
-Issue Paper
+[Issue Paper](/issue-paper)
 ======
 
 
-Professional Development Statement
+[Professional Development Statement](/professional-development-statement)
 ======
 
 
 Coursework
 ======
+[Major Paper](/major-paper)
 
+[Elective Paper](/elective-paper)
 
-Class History
+[Core Course](/core-course)
+
+[Class History](/class-history)
 ======
 
 
-Advising History
+[Advising History](/advising-history)
 ======
 
  
-CV
+[CV](/cv)
 ======
 
 
