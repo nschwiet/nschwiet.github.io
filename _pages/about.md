@@ -3,7 +3,7 @@ header:
   overlay_image: header.jpg
 permalink: /
 title: "Nick Schwieterman"
-excerpt: "About me"
+excerpt: "Information Studies | Digital Humanities"
 author_profile: true
 redirect_from: 
   - /about/
