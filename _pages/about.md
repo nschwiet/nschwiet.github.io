@@ -1,6 +1,6 @@
 ---
 header:
-  image: header.jpg
+  overlay_image: header.jpg
 permalink: /
 title: "Nick Schwieterman"
 excerpt: "About me"
