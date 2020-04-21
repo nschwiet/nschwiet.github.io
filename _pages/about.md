@@ -4,7 +4,7 @@ title: "Nick Schwieterman"
 excerpt: "Information Studies <br> Digital Humanities"
 author_profile: true
 header:
-  overlay_image: header.jpg
+  image: header.jpg
 redirect_from: 
   - /about/
   - /about.html
