@@ -14,9 +14,9 @@ I am a MLIS student in the Department of Information Studies at UCLA. My interes
 
 Portfolios
 ======
-In order to showcase my studies, I created two portfolios, both of which are on this site. For my MLIS degree I created a [portfolio](/mlis-portfolio) that documents a critical issue that I am interested in, papers representative of my coursework, a professional development statement, and a list of courses and advising history.
+In order to showcase my graduate studies, I created two portfolios. For my [MLIS degree](/mlis-portfolio) my portfolio documents a critical issue, papers representative of my coursework, a professional development statement, and a list of courses and advising history.
 
-For my Digital Humanities certificate, I created a [portfolio](/dh-portfolio) that highlights my research interests and projects in the Digital Humanities.
+For my [Digital Humanities](/dh-portfolio) certificate, my portfolio highlights research interests and projects carried out in the Digital Humanities.
 
 CV
 ======
