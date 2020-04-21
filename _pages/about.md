@@ -3,7 +3,7 @@ header:
   image: header.jpg
 permalink: /
 title: "Nick Schwieterman"
-excerpt: "Information Studies. Digital Humanities."
+excerpt: "Information Studies /n Digital Humanities"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +14,9 @@ I am a MLIS student in the Department of Information Studies at UCLA. My interes
 
 Portfolios
 ======
-In order to showcase my graduate studies, I created two portfolios. For my [MLIS degree](/mlis-portfolio) my portfolio documents a critical issue, papers representative of my coursework, a professional development statement, and a list of courses and advising history.
+In order to showcase my graduate studies I created two portfolios. My [MLIS](/mlis-portfolio) portfolio documents a critical issue, papers representative of my coursework, a professional development statement, and a list of courses and advising history.
 
-For my [Digital Humanities](/dh-portfolio) certificate, my portfolio highlights research interests and projects carried out in the Digital Humanities.
+My [Digital Humanities](/dh-portfolio) portfolio highlights research interests and projects carried out in the Digital Humanities.
 
 CV
 ======
