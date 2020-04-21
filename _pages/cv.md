@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-header:
-  image: nick.jpg
 redirect_from:
   - /resume
 ---
