@@ -1,9 +1,7 @@
 ---
 permalink: /
 title: "Nick Schwieterman"
-excerpt: "About me"
-tagline: "Information Studies"
-tagline: "Digital Humanities"
+excerpt: "Information Studies <br> Digital Humanities"
 author_profile: true
 header:
   overlay_image: header.jpg
