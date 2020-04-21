@@ -1,10 +1,10 @@
 ---
+header:
+  image: header.jpg
 permalink: /
 title: "Nick Schwieterman"
 excerpt: "About me"
 author_profile: true
-header:
-  image: header.jpg
 redirect_from: 
   - /about/
   - /about.html
