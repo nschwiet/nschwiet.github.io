@@ -3,6 +3,8 @@ layout: archive
 title: "MLIS Portfolio"
 permalink: /mlis-portfolio/
 author_profile: true
+header:
+  image: top.png
 redirect_from:
   - /mlis
 ---
