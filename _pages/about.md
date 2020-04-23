@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "Nick Schwieterman"
-excerpt: "Information Studies <br> Digital Humanities"
+excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: header.png
+  image: header.png
 redirect_from: 
   - /about/
   - /about.html
