@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+The following is my MLIS portfolio. It is created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue statement, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. Thank you for looking!
 
 [Issue Paper](/issue-paper)
 ======
@@ -35,3 +36,9 @@ redirect_from:
 ======
 
 
+Accessibility Statement
+======
+
+
+Acknowledgements
+======
