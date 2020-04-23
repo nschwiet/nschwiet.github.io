@@ -13,9 +13,11 @@ redirect_from:
 
 Education
 ======
+* **PhD in Information Studies, University of California, Los Angeles, 2020 - **
+
 * **MLIS, University of California, Los Angeles, 2020**
   * Digital Humanities Certificate
-* **Bachelor of Arts in Philosophy, University of Cincinnati, 2011**
+* **BA in Philosophy, University of Cincinnati, 2011**
   * Graduated with Honors
 
 Work experience
@@ -61,6 +63,14 @@ Organizations
   * Attend the Graduate Students Association forum as a voting member
 * Society for Social Studies of Science (4S) - Member
 * Association for Information Science and Technology - Member
+
+Awards
+======
+* Hal Borko Student Award - 2020
+  * Recognizing an outstanding graduate student in the Department of Information Studies
+* UCLA Staff Appreciation and Recognition (STAR) Award - 2015
+  * Recognizing exceptional performance and significant contributions supporting organizational goals
+
 
 Volunteer
 ======
