@@ -22,4 +22,8 @@ CV
 ======
 For more on my academic and professional journey, see my [CV](/cv).
 
+Me
+======
+Outside of Information Studies I'm an aspiring amateur mycologist and budding bridge player. I also enjoy bouldering, board games, and making noise. Here's a picture of me and bolete in the Eastern Sierras.
+
 ![alt text](/images/bolete.png "Me with a bolete in the Easten Sierras")
