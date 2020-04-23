@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Nick Schwieterman"
-excerpt: "About Me"
+excerpt: "Information Studies"
 author_profile: true
 header:
   image: header1.png
