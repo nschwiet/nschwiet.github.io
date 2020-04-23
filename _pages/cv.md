@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **PhD in Information Studies, University of California, Los Angeles, 2020 - **
+* **PhD in Information Studies, University of California, Los Angeles**
 
 * **MLIS, University of California, Los Angeles, 2020**
   * Digital Humanities Certificate
