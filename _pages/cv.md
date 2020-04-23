@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* **PhD in Information Studies, University of California, Los Angeles**
+* **2020 - : PhD in Information Studies, University of California, Los Angeles**
 
-* **MLIS, University of California, Los Angeles, 2020**
+* **2020: MLIS, University of California, Los Angeles**
   * Digital Humanities Certificate
-* **BA in Philosophy, University of Cincinnati, 2011**
+* **2011: BA in Philosophy, University of Cincinnati**
   * Graduated with Honors
 
 Work experience
