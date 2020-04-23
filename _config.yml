@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick Schwieterman"
+title                    : "Nick Schwieterman / Information Studies"
 title_separator          : "-"
 name                     : &name "Nick Schwieterman"
-description              : &description "MLIS and DH Portfolio"
+description              : &description "Portfolios, CV, and more"
 url                      : https://nickschwieterman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/nschwiet.github.io"
