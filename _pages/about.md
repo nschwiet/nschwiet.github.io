@@ -21,3 +21,5 @@ My [Digital Humanities portfolio](/dh-portfolio) highlights research interests a
 CV
 ======
 For more on my academic and professional journey, see my [CV](/cv).
+
+![alt text](/images/bolete.png "Me with a bolete in the Easten Sierras")
