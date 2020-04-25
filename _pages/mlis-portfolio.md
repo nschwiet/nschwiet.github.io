@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Introduction
+======
+
 My MLIS portfolio was created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue statement, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. Thank you for looking!
 
 For the entire portfolio in PDF form, click here.
+
 
 [Issue Paper](/issue-paper)
 ======
@@ -67,6 +71,9 @@ This section contains other projects I worked on throughout my MLIS degree. A fe
 
 Accessibility Statement
 ======
+This portfolio strives to be accessible in two distinct ways. First and foremost, the portfolio aims to meet all standards set out in the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG20/) so that the site is accessible to all kinds of users. These guidelines ensure that web content is not created for a universal user, but has many users of all kinds in mind. Futhermore, following these standards ensures that the content is maximally compatible with many kinds of devices and on various types of internet connections. To this end, I created this portfolio using a Jekyll theme [AcademicPages](https://academicpages.github.io/), which is forked from the Minimal Mistakes theme, all hosted on Github. By using a moderately popular theme on an established platform I am ensuring that my site is meeting the standardized accessibility guidelines as much as possible.
+
+Secondly, my portfolio aims to be sustainable, or accessible through preservation. It is known and understood that the digital medium is volatile and corrupts more quickly than analog counterparts. Complicating these matters further is the rapid pace of change to digital standards and platforms. Again, my choice to host the portfolio on an established platform with an established theme was made to hedge against these digital dimensions. I also linked to a PDF version of my portfolio that can be downloaded and printed. While the PDF version cannot be interacted with in the same way, the tradeoff is a more static and sustainable medium.
 
 
 Acknowledgements
