@@ -65,30 +65,30 @@ Genre is a general category that aims to capture what kind of tabletop game is b
 
 This is the initial version of the schema, adopted largely from BBG and the VGMS. Metadata elements that align with DCMS are denoted with [DC:] and with VGMS, [VGMS:]. An asterisk indicates whether the element is required for the schema. Due to the limited scope of Dublin Core, multiple elements may be mapped to individual Dublin Core elements. For example, Play Space and Play Time both map to the Dublin Core element coverage.
 
-Mechanic* - The primary operation the player uses to overcome the obstacle(s) in the game. Multiple values can be recorded.
-Type* (sub-genre) [DC: type] - An attribute of Genre. This is the style of the gaming experience, given the genre designation.
-Genre* [DC: type] [VGMS: Gameplay Genre] - The general category of tabletop game. There are three accepted values: board game, card game, role playing game. These are not mutually exclusive categories and multiple values can be accepted.
-Theme* [DC: subject] [VGMS: Narrative Genre] - The theme of a game. This is the general story the game employs to allow a narrative of mechanics to play out.
-Title* [DC: title] [VGMS: Game Title]- The name of the game.
-Designer* [DC: creator] - The creator(s) of the game.
-Publisher [DC: publisher] - The entity responsible for the production and distribution of the game.
-Date* [DC: date] [VGMS: Retail Release Date] - The date the game was released or date the game was invented.
-Edition [DC: source] [VGMS: Version Information] - The print or version of a game.
-Rating - Crowdsourced from BBG. Scale 1-10. This is a dynamic value, so the rating in the schema may differ from the current BBG rating. Refer to the date of metadata creation.
-Game Rate (Difficulty/Complexity) - Crowdsourced from BBG. Scale 1-5. This is a dynamic value, so the rating in the schema may differ from the current BBG rating. Refer to the date of metadata creation.
-Language* [DC: language] [VGMS: Language] - The language the game components or instructions are written in.
-Intellectual Property* [DC: rights] - Specify whether the game is the intellectual property of the creator, publisher, or combination thereof.
-Community Site* [DC: identifier] - The equivalent of an “authority” site for board, RPG, or card games.
-Expansion [DC: relation] - Specify whether the game is an expansion on, and therefore contingent to, another game.
-Packaging Dimensions [DC: format] [VGMS: Packaging] - The size and weight of the game box or container.
-Number of Players [VGMS: Number of Players]. The number of players the game requires.
-Play Space [DC: coverage] - How much space an instance of playing a game will take, on average.
-Play Time [DC: coverage] - How much time an instance of playing a game will take, on average.
-Components* [DC: format] - The pieces necessary to play the game such as board, cards, dice, chips, etc. This element accepts multiple values.
-Description* [DC: description] [VGMS: Summary] - A description or account of a resource
-Notes [VGMS: Game Note] - Any other feature or characteristic of a game that is notable not covered in the other fields
-Artist [DC: contributor] - The artist of the game components.
-Award - Nominated and/or awards received.
+* Mechanic* - The primary operation the player uses to overcome the obstacle(s) in the game. Multiple values can be recorded.
+* Type* (sub-genre) [DC: type] - An attribute of Genre. This is the style of the gaming experience, given the genre designation.
+* Genre* [DC: type] [VGMS: Gameplay Genre] - The general category of tabletop game. There are three accepted values: board game, card game, role playing game. These are not mutually exclusive categories and multiple values can be accepted.
+* Theme* [DC: subject] [VGMS: Narrative Genre] - The theme of a game. This is the general story the game employs to allow a narrative of mechanics to play out.
+* Title* [DC: title] [VGMS: Game Title]- The name of the game.
+* Designer* [DC: creator] - The creator(s) of the game.
+* Publisher [DC: publisher] - The entity responsible for the production and distribution of the game.
+* Date* [DC: date] [VGMS: Retail Release Date] - The date the game was released or date the game was invented.
+* Edition [DC: source] [VGMS: Version Information] - The print or version of a game.
+* Rating - Crowdsourced from BBG. Scale 1-10. This is a dynamic value, so the rating in the schema may differ from the current BBG rating. Refer to the date of metadata creation.
+* Game Rate (Difficulty/Complexity) - Crowdsourced from BBG. Scale 1-5. This is a dynamic value, so the rating in the schema may differ from the current BBG rating. Refer to the date of metadata creation.
+* Language* [DC: language] [VGMS: Language] - The language the game components or instructions are written in.
+* Intellectual Property* [DC: rights] - Specify whether the game is the intellectual property of the creator, publisher, or combination thereof.
+* Community Site* [DC: identifier] - The equivalent of an “authority” site for board, RPG, or card games.
+* Expansion [DC: relation] - Specify whether the game is an expansion on, and therefore contingent to, another game.
+* Packaging Dimensions [DC: format] [VGMS: Packaging] - The size and weight of the game box or container.
+* Number of Players [VGMS: Number of Players]. The number of players the game requires.
+* Play Space [DC: coverage] - How much space an instance of playing a game will take, on average.
+* Play Time [DC: coverage] - How much time an instance of playing a game will take, on average.
+* Components* [DC: format] - The pieces necessary to play the game such as board, cards, dice, chips, etc. This element accepts multiple values.
+* Description* [DC: description] [VGMS: Summary] - A description or account of a resource
+* Notes [VGMS: Game Note] - Any other feature or characteristic of a game that is notable not covered in the other fields
+* Artist [DC: contributor] - The artist of the game components.
+* Award - Nominated and/or awards received.
 
 ### Controlled Vocabulary
 
@@ -96,35 +96,35 @@ Controlled vocabularies are important for ensuring that metadata contributors us
 
 #### Mechanic
 
-Deck Building - Players have a personal collection of cards or tokens that provide different actions and/or resources which are randomly drawn.
-Tile Placement - Players place pieces or tiles to shape the game board.
-Trick-taking - Commonly used in card games. Each player plays a card from their hand face up and all cards played constitute a trick, which is won by a player or team according to the rules of the game.
-Hand Management - Commonly used in card games. Cards played in a certain order or sequence will benefit the player.
+* Deck Building - Players have a personal collection of cards or tokens that provide different actions and/or resources which are randomly drawn.
+* Tile Placement - Players place pieces or tiles to shape the game board.
+* Trick-taking - Commonly used in card games. Each player plays a card from their hand face up and all cards played constitute a trick, which is won by a player or team according to the rules of the game.
+* Hand Management - Commonly used in card games. Cards played in a certain order or sequence will benefit the player.
 
 #### Genre
 
-Board Game - A game that requires space for the components to be situated. Components are requisite for this genre, contrasting it from most RPG that do not require specific components (though they may to increase narrative).
-Card Game - A game that requires the use of the 52 card “French” deck of cards.
-Role Playing Game - A game that is typically played without components, but typically include dice as a decision tool. A persistent performative aspect is typical.
+* Board Game - A game that requires space for the components to be situated. Components are requisite for this genre, contrasting it from most RPG that do not require specific components (though they may to increase narrative).
+* Card Game - A game that requires the use of the 52 card “French” deck of cards.
+* Role Playing Game - A game that is typically played without components, but typically include dice as a decision tool. A persistent performative aspect is typical.
 
 #### Type (Genre prerequisite)
 
-Strategy (board, card) - A game in which decision making skills have a high significance in determining the outcome; chance is often minimized.
-Party (board) - A game that encourages social interaction, typically by alluding to popular references and requiring lower amounts of skill as chance often plays a significant role. Can accommodate large groups.
-Storytelling (board, role-playing) - A game where the player crafts a story based on prompts or materials provided by the game. 
+* Strategy (board, card) - A game in which decision making skills have a high significance in determining the outcome; chance is often minimized.
+* Party (board) - A game that encourages social interaction, typically by alluding to popular references and requiring lower amounts of skill as chance often plays a significant role. Can accommodate large groups.
+* Storytelling (board, role-playing) - A game where the player crafts a story based on prompts or materials provided by the game. 
 
 #### Theme
 
-Abstract - Typically without a theme, e.g. chess, go, most card games.
-Economic - Players to develop and manage a system of production, distribution, trade, and/or consumption of goods, simulating a market in some way.
-War - Modeled after conflict, simulating military actions.
+* Abstract - Typically without a theme, e.g. chess, go, most card games.
+* Economic - Players to develop and manage a system of production, distribution, trade, and/or consumption of goods, simulating a market in some way.
+* War - Modeled after conflict, simulating military actions.
 
 #### Components
 
-Die - Object with multiple sides (typically 4-20), often with different values on different sides. Typically rolled for introducing probability as a mechanic.
-Chip - Counters of uniform weight and size but with different colors to represent different values.
-Meeple - Small token used in board games, from Carcassonne. Used to represent player occupation in the board game space.
-Token - Pieces used to designate areas or figures on a board.
+* Die - Object with multiple sides (typically 4-20), often with different values on different sides. Typically rolled for introducing probability as a mechanic.
+* Chip - Counters of uniform weight and size but with different colors to represent different values.
+* Meeple - Small token used in board games, from Carcassonne. Used to represent player occupation in the board game space.
+* Token - Pieces used to designate areas or figures on a board.
 
 ### Use Case and Sample Record
 
@@ -134,30 +134,30 @@ For the following use case, the user was browsing the library for a quick board 
 
 #### Sample Record
 
-Mechanic* - Hand Management
-Type* (sub-genre) - Strategy
-Genre* - Board Game
-Theme* - Abstract
-Title* - Battle Line
-Designer* - Reiner Knizia
-Publisher - GMT Games
-Date* - 2000
-Edition - 1
-Rating - 7.4
-Game Rate (Difficulty/Complexity) - 1.91
-Language* - English
-Intellectual Property* - GMT Games
-Community Site* - https://www.boardgamegeek.com/boardgame/760/battle-line
-Expansion - no
-Packaging Dimensions - 
-Number of Players* - 2
-Play Space - 
-Play Time  - 30 minutes
-Components - 70 cards; 9 tokens
-Description - Two opponents face off across a 'battle line' and attempt to win the battle by taking 5 of 9 flags or 3 adjacent flags. Flags are decided by placing cards into 3 card poker-type hands on either side of the flag (similar to straight flush, 3 of a kind, straight, flush, etc). The side with the highest 'formation' of cards wins the flag.
-Notes - 
-Artist -  Roland MacDonald, Rodger B. MacGowan, Mark Simonitch
-Award - 
+* Mechanic* - Hand Management
+* Type* (sub-genre) - Strategy
+* Genre* - Board Game
+* Theme* - Abstract
+* Title* - Battle Line
+* Designer* - Reiner Knizia
+* Publisher - GMT Games
+* Date* - 2000
+* Edition - 1
+* Rating - 7.4
+* Game Rate (Difficulty/Complexity) - 1.91
+* Language* - English
+* Intellectual Property* - GMT Games
+* Community Site* - https://www.boardgamegeek.com/boardgame/760/battle-line
+* Expansion - no
+* Packaging Dimensions - 
+* Number of Players* - 2
+* Play Space - 
+* Play Time  - 30 minutes
+* Components - 70 cards; 9 tokens
+vDescription - Two opponents face off across a 'battle line' and attempt to win the battle by taking 5 of 9 flags or 3 adjacent flags. Flags are decided by placing cards into 3 card poker-type hands on either side of the flag (similar to straight flush, 3 of a kind, straight, flush, etc). The side with the highest 'formation' of cards wins the flag.
+* Notes - 
+* Artist -  Roland MacDonald, Rodger B. MacGowan, Mark Simonitch
+* Award - 
 
 ### Future Directions
 
