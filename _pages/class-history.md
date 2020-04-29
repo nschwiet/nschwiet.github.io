@@ -12,6 +12,7 @@ The following is a list of courses I took that count towards my MLIS degree. The
 
 Fall 2014
 ------
+
 IS 200:	Information and Society
 
 Fall 2018
