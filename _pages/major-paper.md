@@ -7,6 +7,7 @@ author_profile: true
 
 Literacy in the Library
 ======
+
 Contingent Identities of Information Professionals
 ------
 
