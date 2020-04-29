@@ -19,7 +19,9 @@ Fall 2018
 ------
 
 IS 211:	Artifacts & Cultures
+
 IS 260:	Description & Access
+
 IS 289:	Digital Methods for Research & Scholarship
 
 Winter 2019
