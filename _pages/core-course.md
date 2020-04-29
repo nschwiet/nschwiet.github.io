@@ -7,6 +7,7 @@ author_profile: true
 
 Libraries, Politics, and Communities
 ======
+
 Inflection Points
 ------
 
