@@ -12,13 +12,13 @@ The following is a list of courses I took that count towards my MLIS degree. The
 
 Fall 2014
 ------
-__IS 200:	Information and Society__
+IS 200:	Information and Society
 
 Fall 2018
 ------
-**IS 211:	Artifacts & Cultures**
-_IS 260:	Description & Access_
-*IS 289:	Digital Methods for Research & Scholarship*
+IS 211:	Artifacts & Cultures
+IS 260:	Description & Access
+IS 289:	Digital Methods for Research & Scholarship
 
 Winter 2019
 ------
