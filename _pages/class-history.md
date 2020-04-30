@@ -58,3 +58,6 @@ Spring 2020
 IS 410:	Management Theory and Practice for Information Professionals
 IS 433:	Community Based Archives
 DH 299:	Digital Humanities
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
