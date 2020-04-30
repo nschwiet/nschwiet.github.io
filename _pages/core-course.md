@@ -1,17 +1,9 @@
 ---
 layout: archive
-title: "Core Course Paper"
+title: "Libraries, Politics, and Communities: Inflection Points"
 permalink: /core-course/
 author_profile: true
 ---
-
-My core course paper, Libraries, Politics, and Communities: Inflection Points, is a case study of the Monterey Park Bruggemeyer Library. There was turmoil between the library and the city of Monterey Park in the 1980s spurred by shifting demographics. Exploring the records left behind reveals how public officials and librarians see and respond to community changes and needs and explores how both are political. This paper was written for IS 212: Values and Communities.
-
-Libraries, Politics, and Communities
-======
-
-Inflection Points
-------
 
 ### Introduction
 
