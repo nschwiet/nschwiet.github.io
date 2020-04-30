@@ -1,17 +1,9 @@
 ---
 layout: archive
-title: "Major Paper"
+title: "Literacy in the Library: Contingent Identities of Information Professionals"
 permalink: /major-paper/
 author_profile: true
 ---
-
-My major paper, titled Literacy in the Library: Contingent Identities of Information Professionals, explores notions of pluralistic identity representations necessary as information professionals especially in light of digitally mediated information infrastructures. The paper was written for IS 213: Current Issues in Librarianship and was submitted to the GSE&IS Research and Inquiry Conference.
-
-Literacy in the Library
-======
-
-Contingent Identities of Information Professionals
-------
 
 ### Abstract
 This paper explores how information professionals are required to have multiple professional identities in order to carry out their duties in an information space. On the one hand, librarians are guided by frameworks put in place by the ALA and other professional organizations. On the other, Paulo Freire reminds us that pedagogy must be formed with, not for, the oppressed. As neoliberal pressures continue to mount in the library, external notions of success impact internal values. Simultaneously, communities are shaped by a logic of accumulation and algorithms of oppression which comprises notions of everydayness remediated through biased processes. If a librarian is committed to social justice and acknowledges the constructedness of information systems and of individuals through these information systems, they are committed to multiple evaluative criteria, both extrinsic and intrinsic. Rather than calling these notions of success paradoxical or contradictory, queer theory suggests that these identities are contingent.
