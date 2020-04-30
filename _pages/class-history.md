@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Class History"
+title: "List of Courses Taken"
 permalink: /class-history/
 author_profile: true
 ---
-
-Courses taken
-======
 
 The following is a list of courses I took that count toward my MLIS degree and Digital Humanities certificate. They are organized chonologically. For each course I specify whether the course satisfies certain programmatic requirements in for Information Studies or Digital Humanities as a core course, gateway course, research methods, or digital humanities.
 
