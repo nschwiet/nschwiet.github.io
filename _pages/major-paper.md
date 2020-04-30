@@ -8,6 +8,8 @@ author_profile: true
 Literacy in the Library
 ======
 
+My major paper, titled Literacy in the Library: Contingent Identities of Information Professionals, explores notions of pluralistic identity representations necessary as information professionals especially in light of digitally mediated information infrastructures. The paper was written for IS 213: Current Issues in Librarianship and was submitted to the GSE&IS Research and Inquiry Conference.
+
 Contingent Identities of Information Professionals
 ------
 
