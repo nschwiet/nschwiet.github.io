@@ -1,17 +1,9 @@
 ---
 layout: archive
-title: "Elective Paper"
+title: "Analog Game Metadata Schema: AGMS"
 permalink: /elective-paper/
 author_profile: true
 ---
-
-My elective paper, Analog Game Metadata Schema (AGMS) is a more practically oriented paper that explores a personal interest of mine, analog games, in an informational context. This paper aims at establishing a framework for a metadata schema specifically focused on analog games, such as board games, card games, and role playing games, for use by information organizations and researchers. It was written for IS 464: Metadata.
-
-Analog Game Metadata Schema
-======
-
-AGMS
-------
 
 ### Abstract
 
