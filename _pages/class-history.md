@@ -8,10 +8,10 @@ author_profile: true
 Courses taken
 ======
 
-The following is a list of courses I took that count towards my MLIS degree. They are organized chonologically. 
+The following is a list of courses I took that count toward my MLIS degree and Digital Humanities certificate. They are organized chonologically. For each course I specify whether the course satisfies certain programmatic requirements in for Information Studies or Digital Humanities.
 
 
-Quarter | Name | Core/Gateway/Research Methods/Digital Humanities
+Quarter | Course Name | Core/Gateway/Research Methods/Digital Humanities
 --- | --- | ---
 Fall 2014 | IS 200:	Information and Society | 
 Fall 2018 | IS 211:	Artifacts & Cultures | Core Course
