@@ -17,7 +17,7 @@ Preserving Video Games
 Digital Humanities Projects
 ======
 
-[Intro to Digital Humanities Project](/dh201)
+[Intro to Digital Humanities Project](/dh201.html)
 ------
 
 Digital Humanities Capstone
