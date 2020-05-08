@@ -11,6 +11,8 @@ Information Studies Projects
 Proposal for the Establishment and Future Development of a Greater Los Angeles Veteran’s Affairs Archive
 ------
 
+[PDF of Veteran's Affairs Archive](/VeteransAffairsArchive.pdf).
+
 Preserving Video Games
 ------
 
