@@ -5,7 +5,7 @@ permalink: /professional-development-statement/
 author_profile: true
 ---
 
-[Professional Development Statement as PDF](/files/Schwieterman Professional Development Statement.pdf).
+[PDF of Professional Development Statement](/files/ProfessionalDevelopmentStatement.pdf).
 
 When I began my MLIS degree at UCLA with a focus in informatics, my interests revolved around the relationship between information infrastructures and users. Through my studies I aspired to investigate the hegemonic nature of information systems design. These interests were informed by my experience working as an administrator in higher education for several years, primarily with the design and implementation of learning technologies for online distance learning. Among my driving concerns were the neoliberal and neocolonial trends I observed while supporting the university mission, carried out as a matter of policy and enforced through technology.
 
