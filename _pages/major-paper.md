@@ -5,6 +5,8 @@ permalink: /major-paper/
 author_profile: true
 ---
 
+[PDF of Major Paper](/files/MajorPaper.pdf).
+
 ### Abstract
 This paper explores how information professionals are required to have multiple professional identities in order to carry out their duties in an information space. On the one hand, librarians are guided by frameworks put in place by the ALA and other professional organizations. On the other, Paulo Freire reminds us that pedagogy must be formed with, not for, the oppressed. As neoliberal pressures continue to mount in the library, external notions of success impact internal values. Simultaneously, communities are shaped by a logic of accumulation and algorithms of oppression which comprises notions of everydayness remediated through biased processes. If a librarian is committed to social justice and acknowledges the constructedness of information systems and of individuals through these information systems, they are committed to multiple evaluative criteria, both extrinsic and intrinsic. Rather than calling these notions of success paradoxical or contradictory, queer theory suggests that these identities are contingent.
 
@@ -85,21 +87,37 @@ This paper explores the role of the critical librarian in an age of surveillance
 ### References
 
 Staltz, André. The Web began dying in 2014, here’s how. (2017, October 30). Retrieved June 11, 2019, from https://staltz.com/the-web-began-dying-in-2014-heres-how.html
+
 Beilin, I. (2016). Student Success and the Neoliberal Academic Library. Canadian Journal of Academic Librarianship, 1, 10–23. https://doi.org/10.33137/cjal-rcbu.v1.24303
+
 Clark, S. (2016, September 5). Why Library Leaders should care about Critical Librarianship | Better Library Leaders. Retrieved June 11, 2019, from http://betterlibraryleaders.com/2016/05/19/why-library-leaders-should-care-about-critical-librarianship/
+
 critlib | critical librarianship, in real life & on the twitters. (n.d.). Retrieved June 11, 2019, from http://critlib.org/
+
 Association of College and Research Libraries. (2015, February 9). Framework for Information Literacy for Higher Education [Text]. Retrieved June 11, 2019, from Association of College & Research Libraries (ACRL) website: http://www.ala.org/acrl/standards/ilframework
+
 Drabinski, E. (2013). Queering the Catalog: Queer Theory and the Politics of Correction. The Library Quarterly, 83(2), 94–111. https://doi.org/10.1086/669547
+
 Elmborg, J. (2006). Critical Information Literacy: Implications for Instructional Practice. The Journal of Academic Librarianship, 32(2), 192–199. https://doi.org/10.1016/j.acalib.2005.12.004
+
 Ettarh, Fobazi. (2018, January 10). Vocational Awe and Librarianship: The Lies We Tell Ourselves – In the Library with the Lead Pipe. Retrieved June 11, 2019, from http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/
+
 Freire, P., Ramos, M. B., Macedo, D. P., & Shor, I. (2018). Pedagogy of the oppressed (50th anniversary edition). New York: Bloomsbury Academic.
+
 Furner, J. (2009). Interrogating “Identity”: A Philosophical Approach to an Enduring Issue in Knowledge Organization. KNOWLEDGE ORGANIZATION, 36(1), 3–16. https://doi.org/10.5771/0943-7444-2009-1-3
+
 Helmore, E. (2019, June 10). Google made $4.7bn from news sites in 2018, study claims. The Guardian. Retrieved from https://www.theguardian.com/technology/2019/jun/10/google-news-revenue-2018-new-study
+
 Lewis, P. (2018, February 2). “Fiction is outperforming reality”: how YouTube’s algorithm distorts truth. The Guardian. Retrieved from https://www.theguardian.com/technology/2018/feb/02/how-youtubes-algorithm-distorts-truth
+
 Lipsitz, G. (1995). The Possessive Investment in Whiteness: Racialized Social Democracy and the “White” Problem in American Studies. American Quarterly, 47(3), 369. https://doi.org/10.2307/2713291
+
 Omi, M., & Winant, H. (1994). Racial formation in the United States: from the 1960s to the 1990s (2d ed). New York: Routledge.
+
 Pawley, C. (1998). Hegemony’s Handmaid? The Library and Information Studies Curriculum from a Class Perspective. The Library Quarterly, 68(2), 123–144. https://doi.org/10.1086/602955
+
 Pawley, C. (2003). Information Literacy: A Contradictory Coupling. The Library Quarterly, 73(4), 422-452.
     https://doi.org/10.1086/603440
+
 Schwartz, O. (2019, May 31). Unpopular Content | Oscar Schwartz. Retrieved June 13, 2019, from The Baffler website: https://thebaffler.com/latest/unpopular-content-schwartz
 Zuboff, S. (2015). Big other: Surveillance Capitalism and the Prospects of an Information Civilization. Journal of Information Technology, 30(1), 75–89. https://doi.org/10.1057/jit.2015.5
