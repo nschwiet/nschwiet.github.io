@@ -5,6 +5,8 @@ permalink: /core-course/
 author_profile: true
 ---
 
+[PDF of Corse Course Paper](/files/CoreCourse.pdf).
+
 ### Introduction
 
 Libraries are bound by responsibilities to serve their communities. Part of serving a community is providing resources, including books and programming, aimed at producing informed and engaged community members (Lankes, 2016). This paper is an investigation into how one library, The Monterey Park Bruggemeyer Library, pushed back against “common sense” (Omi and Winant, 1994) after the Monterey Park City Council voted to disband their library board of trustees. In exploring this topic, an understanding of how the values of a political organization and the social norms of a community may or may not align with the values of libraries and librarians who, due to their professionalization around sensitivities of the constructedness of information, promote ideals of information access and literacy (Cooke, Sweeney, & Noble, 2016). Amid changing demographics and a hostile political climate, libraries serve as points of inflection, pushing up against and shaping normative forces in social, political, and technical systems.
@@ -67,24 +69,45 @@ Librarians can look to what happened in Monterey Park as a model for how to navi
 ### References
 
 Chinese Only? Monterey Park Sees the Signs. (1985, April 30). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1985-04-30-me-19924-story.html
+
 Cooke, N. A., Sweeney, M. E., & Noble, S. U. (2016). Social Justice as Topic and Tool: An Attempt to Transform an LIS Curriculum and Culture. The Library Quarterly, 86(1), 107–124. https://doi.org/10.1086/684147
+
 Controversy Is OK With Him : New Monterey Park Mayor’s Views Stir Up the Residents. (1988, October 11). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1988-10-11-me-3712-story.html
+
 Court Decision Reinstating Library Board. (1989, July 15). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1989-07-15-me-2897-story.html
+
 Drabinski, E. (2013). Queering the Catalog: Queer Theory and the Politics of Correction. The Library Quarterly, 83(2), 94–111. https://doi.org/10.1086/669547
+
 Elmborg, J. (2006). Critical Information Literacy: Implications for Instructional Practice. The Journal of Academic Librarianship, 32(2), 192–199. https://doi.org/10.1016/j.acalib.2005.12.004
+
 Harvey, D. (2005). A brief history of neoliberalism. Oxford ; New York: Oxford University Press.
+
 Hegemony’s Handmaid? The Library and Information Studies Curriculum from a Class Perspective. (1998). The Library Quarterly, 68(2), 123–144. https://doi.org/10.1086/602955
+
 History of the Library | Monterey Park, CA - Official Website. (n.d.). Retrieved June 10, 2019, from https://www.montereypark.ca.gov/249/History-of-the-Library
+
 In Monterey Park : Council Sued in Takeover of Library. (1988, January 14). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1988-01-14-ga-36045-story.html
+
 Lam, A. (2011, February 14). The School Library versus the School Board: An Exploration of the Book Banning Trend of the 1980s. Retrieved June 10, 2019, from The Journal of Research on Libraries and Young Adults website: http://www.yalsa.ala.org/jrlya/2011/02/the-school-library-versus-the-school-board-an-exploration-of-the-book-banning-trend-of-the-1980s/
+
 Lankes, R. D. (2016). The new librarianship field guide. Cambridge, Massachusetts ; London, England: The MIT Press.
+
 Lipsitz, G. (1995). The Possessive Investment in Whiteness: Racialized Social Democracy and the “White” Problem in American Studies. American Quarterly, 47(3), 369. https://doi.org/10.2307/2713291
+
 Monterey Park : City Takes Over Library. (1987a, October 15). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1987-10-15-ga-14219-story.html
+
 Monterey Park Library Litigation. (2012, March 9). Retrieved June 10, 2019, from Asian Americans Advancing Justice - LA website: https://www.advancingjustice-la.org/history/monterey-park-library-litigation
+
 Monterey Park : Nation’s 1st Suburban Chinatown. (1987b, April 6). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1987-04-06-mn-135-story.html
+
 Omi, M., & Winant, H. (1994). Racial formation in the United States: from the 1960s to the 1990s (2d ed). New York: Routledge.
+
 SOCDS Census Data Output: Monterey Park city, CA. (n.d.). Retrieved June 10, 2019, from https://socds.huduser.gov/Census/race.odb?newmsacitylist=31100%2A0600048914%2A1.0&msavar=1&metro=cbsa
+
 Monterey Park Bruggemeyer Library Strategic Plan 2015-2018. (2015). Retrieved from https://www.montereypark.ca.gov/DocumentCenter/View/5175/Strategic-Plan-2015
+
 Stronger Rules on English in Signs Pushed by Council. (1985, December 5). Los Angeles Times. Retrieved from https://www.latimes.com/archives/la-xpm-1985-12-05-ga-633-story.html
+
 U.S. Census Bureau QuickFacts: Monterey Park city, California. (n.d.). Retrieved June 10, 2019, from https://www.census.gov/quickfacts/fact/table/montereyparkcitycalifornia/PST045218
+
 Winner, L. (1986). The whale and the reactor: a search for limits in an age of high technology. Chicago: University of Chicago Press.
