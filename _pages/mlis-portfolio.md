@@ -16,6 +16,11 @@ View my entire portfolio in PDF form.
 
 [Issue Paper](/issue-paper)
 ======
+My issue paper, _Interrogating the User in LIS_, is the culminating work representative of my studies throughout my degree.
+
+Issue Statement
+------
+The user in LIS is complicated by emerging technical platforms which are premised on “common sense” notions of race and capital and also predicated on logics of accumulation and surveillance, commodifying and reifying precise and scalable versions of the user. Critical information literacy and community archives, as sites of critical inquiry and identity making, are spaces that interrogate the relationship between users and these information platforms.
 
 
 [Professional Development Statement](/professional-development-statement)
@@ -25,7 +30,6 @@ My professional development statement outlines my professional trajectory after 
 
 [Coursework](/class-history)
 ======
-
 My coursework contains a list of classes I took while an MLIS student. The following three documents are examples of output from select courses.
 
 [Major Paper](/major-paper)
