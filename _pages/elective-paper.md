@@ -173,12 +173,21 @@ Deines, Gill, Lincoln, & Clifford. (2018, February 7). Six Lessons Learned from 
 
 DCMI: Dublin Core Metadata Element Set, Version 1.1: Reference Description. (n.d.). Retrieved June 7, 2019, from http://www.dublincore.org/specifications/dublin-core/dces/
 
-Donovan, A., Cho, H., Magnifico, C., & Lee, J. H. (2013). Pretty as a pixel: issues and challenges in developing a controlled vocabulary for video game visual styles. Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries - JCDL ’13, 413. https://doi.org/10.1145/2467696.2467747Duffy, O. (2014, November 25). Board games’ golden age: sociable, brilliant and driven by the internet. The Guardian. Retrieved from https://www.theguardian.com/technology/2014/nov/25/board-games-internet-playstation-xbox
+Donovan, A., Cho, H., Magnifico, C., & Lee, J. H. (2013). Pretty as a pixel: issues and challenges in developing a controlled vocabulary for video game visual styles. Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries - JCDL ’13, 413. https://doi.org/10.1145/2467696.2467747
+
+Duffy, O. (2014, November 25). Board games’ golden age: sociable, brilliant and driven by the internet. The Guardian. Retrieved from https://www.theguardian.com/technology/2014/nov/25/board-games-internet-playstation-xbox
+
 Nguyen, Christopher Thi. (forthcoming). Games: Agency as Art. Oxford University Press
+
 Office, N. D. and M. S. (n.d.). MARC STANDARDS (Network Development and MARC Standards Office, Library of Congress) [Webpage]. Retrieved June 7, 2019, from https://www.loc.gov/marc/
+
 Our Mission. (2014, October 5). Retrieved June 7, 2019, from Analog Game Studies website: http://analoggamestudies.org/about/our-mission/
+
 Releases – GAMER Group. (n.d.). Retrieved June 7, 2019, from https://gamer.ischool.uw.edu/releases/
 RPGGeek. (n.d.). Retrieved June 7, 2019, from https://rpggeek.com/
+
 Suits, B. H. (1978). The grasshopper: games, life, and Utopia (1st ed). Edinburgh: Scottish Academic Press.
+
 Video Game Metadata Schema. (2017). Retrieved from https://gamer.ischool.uw.edu/wp-content/uploads/2018/04/VGMSVersion4.0_20180824.pdf
+
 XML Introduction. (n.d.). Retrieved June 7, 2019, from https://www.w3schools.com/XML/xml_whatis.asp
