@@ -5,6 +5,8 @@ permalink: /professional-development-statement/
 author_profile: true
 ---
 
+[Professional Development Statement as PDF](/files/Schwieterman Professional Development Statement.pdf).
+
 When I began my MLIS degree at UCLA with a focus in informatics, my interests revolved around the relationship between information infrastructures and users. Through my studies I aspired to investigate the hegemonic nature of information systems design. These interests were informed by my experience working as an administrator in higher education for several years, primarily with the design and implementation of learning technologies for online distance learning. Among my driving concerns were the neoliberal and neocolonial trends I observed while supporting the university mission, carried out as a matter of policy and enforced through technology.
 
 As I progressed through the program, my interests in power shifted from the design of information technologies to how these technologies are embedded in the mundane and everyday activities of individuals and communities. Systems such as information retrieval and media delivery platforms shape and are shaped by existing power structures such as race and capital. Through exploring this embeddedness I hope to properly understand and theorize the relationship between information, identity, and power. For these reasons I will be continuing my education by pursuing a PhD in Information Studies at UCLA after completing my MLIS where I will be studying what surveillance sees and how its data capture affects identity formation and social relations.
