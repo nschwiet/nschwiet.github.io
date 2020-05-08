@@ -5,6 +5,8 @@ permalink: /elective-paper/
 author_profile: true
 ---
 
+[PDF of elective paper](/files/ElectivePaper.pdf).
+
 ### Abstract
 
 Tabletop games have increased in popularity over the last 20 years among hobbyists, collectors, librarians, and scholars. This metadata schema is intended to support cataloging efforts of tabletop games as cultural artifacts for use in libraries and research. While the website BoardGameGeek has served as the defacto metadata source for board gamers, the metadata and vocabulary they collect and make queryable falls short for purposes such as classification, circulation, and tracking trends in design and distribution. Issues include inconsistent and vague use of categories, mechanics, an absence of role playing games which are described on a separate site, RPGGeek, and an absence of most card games. This paper builds on the work done by BoardGameGeek as well as the Video Game Metadata Schema developed by University of Washington Information School Game Research Group.
@@ -162,10 +164,15 @@ This report is a preliminary survey of the existing analog game space. It sugges
 ### References
 
 Analog Game Studies. (n.d.). Retrieved June 7, 2019, from Analog Game Studies website: http://analoggamestudies.org/
+
 BoardGameGeek | Gaming Unplugged Since 2000. (n.d.). Retrieved June 7, 2019, from https://www.boardgamegeek.com/
+
 Card Games. (n.d.). Retrieved June 7, 2019, from https://www.pagat.com/
+
 Deines, Gill, Lincoln, & Clifford. (2018, February 7). Six Lessons Learned from Our First Crowdsourcing Project in the Digital Humanities. Retrieved June 7, 2019, from The Getty Iris website: http://blogs.getty.edu/iris/six-lessons-learned-from-our-first-crowdsourcing-project-in-the-digital-humanities/
+
 DCMI: Dublin Core Metadata Element Set, Version 1.1: Reference Description. (n.d.). Retrieved June 7, 2019, from http://www.dublincore.org/specifications/dublin-core/dces/
+
 Donovan, A., Cho, H., Magnifico, C., & Lee, J. H. (2013). Pretty as a pixel: issues and challenges in developing a controlled vocabulary for video game visual styles. Proceedings of the 13th ACM/IEEE-CS Joint Conference on Digital Libraries - JCDL ’13, 413. https://doi.org/10.1145/2467696.2467747Duffy, O. (2014, November 25). Board games’ golden age: sociable, brilliant and driven by the internet. The Guardian. Retrieved from https://www.theguardian.com/technology/2014/nov/25/board-games-internet-playstation-xbox
 Nguyen, Christopher Thi. (forthcoming). Games: Agency as Art. Oxford University Press
 Office, N. D. and M. S. (n.d.). MARC STANDARDS (Network Development and MARC Standards Office, Library of Congress) [Webpage]. Retrieved June 7, 2019, from https://www.loc.gov/marc/
