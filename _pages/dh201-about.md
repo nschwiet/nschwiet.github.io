@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About DH201
-permalink: /dh-201about/
+permalink: /dh201-about/
 ---
 
 # Data
