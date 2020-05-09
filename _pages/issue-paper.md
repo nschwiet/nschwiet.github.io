@@ -5,3 +5,5 @@ permalink: /issue-paper/
 author_profile: true
 ---
 
+[PDF of Issue Paper](/files/IssuePaper.pdf).
+
