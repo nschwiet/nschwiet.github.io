@@ -5,6 +5,8 @@ permalink: /advising-history/
 author_profile: true
 ---
 
+I included meetings related to my PhD application in my advising history as they were informative for my portfolio progress.
+
 Date | Faculty | Reason
 --- | --- | ---
 7 November 2018 | Shawn Vancour | Mid point first quarter meeting
