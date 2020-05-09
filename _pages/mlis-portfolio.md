@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My MLIS portfolio was created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue statement, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. Thank you for looking!
+My MLIS portfolio was created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue paper, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. Thank you for looking!
 
 View my entire portfolio in PDF form.
 
