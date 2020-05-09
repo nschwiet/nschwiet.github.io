@@ -23,7 +23,7 @@ Preserving Video Games
 Digital Humanities Projects
 ======
 
-This project was completed for DH 201: Introduction to Digital Humanities. For this project I used a Facebook advertising dataset related to misinformation ads leading up to and during the 2016 presidential election.
+This project was completed for DH 201: Introduction to Digital Humanities. For this project I used a Facebook advertising dataset related to misinformation ads leading up to and during the 2016 presidential election. You may need to disable tracker blockers to view some embedded elements of the site.
 
 [Intro to Digital Humanities Project](/dh201.html)
 ------
