@@ -165,7 +165,7 @@ This report is a preliminary survey of the existing analog game space. It sugges
 
 Analog Game Studies. (n.d.). Retrieved June 7, 2019, from Analog Game Studies website: http://analoggamestudies.org/
 
-BoardGameGeek | Gaming Unplugged Since 2000. (n.d.). Retrieved June 7, 2019, from https://www.boardgamegeek.com/
+BoardGameGeek Gaming Unplugged Since 2000. (n.d.). Retrieved June 7, 2019, from https://www.boardgamegeek.com/
 
 Card Games. (n.d.). Retrieved June 7, 2019, from https://www.pagat.com/
 
