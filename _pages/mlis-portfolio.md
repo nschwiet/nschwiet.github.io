@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My MLIS portfolio was created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue paper, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. Thank you for looking!
-
-[View my entire portfolio in PDF form](/files/Portfolio.pdf).
+My MLIS portfolio was created according to the [guidelines](https://is.gseis.ucla.edu/media/StudentHandbook2019-2020.pdf) outlined by the Department of Information Studies at UCLA. The portfolio consists of several components including an issue paper, professional development statement, three examples of coursework, a list of courses I've taken, my advising history, CV, and a few other projects that I've completed as a student. Each section below contains a synopsis and a link to the full document. You can also view the entire [portfolio in PDF form](/files/Portfolio.pdf). Thank you for looking!
 
 
 [Issue Paper](/issue-paper)
@@ -57,7 +55,7 @@ Libraries are bound by responsibilities to serve their communities. Part of serv
 
 [Advising History](/advising-history)
 ======
-My adivising history is a list of conversations and meetings I had with my advisors, Professor Shawn Vancour and Professor Jonathan Furner.
+My adivising history is a list of conversations and meetings I had with my advisors, Professors Shawn Vancour and Jonathan Furner.
  
  
 [CV](/cv)
@@ -67,7 +65,7 @@ My CV contains my academic and professional experience, skills, organizations, a
 
 [Supporting Documentation](/supporting-documentation)
 ======
-This section contains other projects I worked on throughout my MLIS degree. A few of these are more experimental and others stem from work I did in the Digital Humanities program.
+This section contains other projects I worked on throughout my MLIS degree. A few of these are more experimental, some stem from work I did in the Digital Humanities program, and others were group projects.
 
 
 Accessibility Statement
