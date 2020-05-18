@@ -81,6 +81,6 @@ I would like to thank Jason Taksony Hewitt who gave me a home at UCLA Extension 
 
 Thank you Jonathan Gingerich for your friendship and mentorship. Your generosity and good presence are always with me, wherever you are. Thank you Thi Nguyen for helping me to see differently when I was looking for a new way to see. Your ideas opened my world and I continue to play with them.
 
-Thank you Hannah Sutherland for your companionship and encouragement. You have likely read through almost everything in this portfolio. Thank you Katie Elliott for being my bridge partner in those times I desperately needed it. Thank you Dandi Meng for your friendship, generative conversations, and .
+Thank you Hannah Sutherland for your companionship and encouragement. You have likely read through almost everything in this portfolio. Thank you Katie Elliott for being my bridge partner in those times I desperately needed it. Thank you Dandi Meng for your friendship and generative conversations.
 
 And thank you to all my friends who have been with with me on this journey: Mel Hughs, Sherwood Hatchman, Krista Frank, Eve Elliot, Derek Ross, Rodney Black, Tamar Weber, Kevin Lande, Lucas Matthews, Matt Ribkoff, Christina Kilbane, Judith Campbell, and Andrey Nikolayev.
