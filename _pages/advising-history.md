@@ -21,6 +21,6 @@ Spring 2019 | Jonathan Furner | Discuss possible advising change in year two
 10 October 2019 | Jonathan Furner | Change of advisor
 11 October 2019 | Gregory Leazer | Discussion of major paper
 28 October 2019 | Jonathan Furner | Portfolio 50 word statement
-1 November 2020 | Jonathan Furner | PhD application discussion\
+1 November 2020 | Jonathan Furner | PhD application discussion
 11 February 2020 | Jonathan Furner | Intent to present portfolio
 16 April 2020 | Jonathan Furner | Discussion of issue paper progress
