@@ -18,7 +18,7 @@ Intellectual Statement
 ======
 My coursework contains a list of classes I took pursuing my MLIS degree and DH certificate. The following projects are examples of output from select courses that count toward my DH certificate.
 
-DH 201: Introduction to Digital Humanities
+[DH 201: Introduction to Digital Humanities](http://miriamposner.com/classes/dh201w19/)
 ------
 [Understanding Disinformation](/dh201.html) was completed for DH 201: Introduction to Digital Humanities. For this project I used a Facebook advertising dataset related to misinformation ads leading up to and during the 2016 presidential election. You may need to disable tracker blockers to view some embedded elements of the site.
 
@@ -30,7 +30,7 @@ IS 271: Introduction to Computer Systems and Programming
 ------
 While there was no culmulative final project for this class, the skills gained have manifested in various other projects and jobs. In particular, I used programming occasionally during my internship with the Digital Library Program to automate and optimize some of the processes of daily tasks. I also used my knowledge of programming to perform various tasks as a Research and Technology Instructional Consultant.
 
-ENG 203: Computers and Literary Research
+[ENG 203: Computers and Literary Research](https://meta.humspace.ucla.edu/tmi/)
 ------
 For this class I worked my classmate Dylan Karlsson to create a final project on [Twine](https://twinery.org/), [Of Hassles and Lifehacks](https://dylandnick.itch.io/of-hassles-and-lifehacks). This was an exploratory project that touched on themes discussed throughtout the seminar.
 
