@@ -65,7 +65,7 @@ Organizations
 * UCLA Social Sciences Council - Graduate Students Association representative and Financial Chair
   * Attend the Graduate Students Association forum as a voting member
 * Society for Social Studies of Science (4S) - Member
-* Association for Information Science and Technology - Member
+* Association for Information Science and Technology (ASIS&T) - Member
 
 Awards
 ======
