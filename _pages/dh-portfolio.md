@@ -16,20 +16,26 @@ Intellectual Statement
 
 [Coursework](/class-history)
 ======
-My coursework contains a list of classes I took pursuing my MLIS degree and DH certificate. The following projects are examples of output from select coursest that count toward my DH certificate.
+My coursework contains a list of classes I took pursuing my MLIS degree and DH certificate. The following projects are examples of output from select courses that count toward my DH certificate.
 
 DH 201: Introduction to Digital Humanities
 ------
+[Understanding Disinformation](/dh201.html) was completed for DH 201: Introduction to Digital Humanities. For this project I used a Facebook advertising dataset related to misinformation ads leading up to and during the 2016 presidential election. You may need to disable tracker blockers to view some embedded elements of the site.
 
 IS 289/DH 202: Digital Methods for Research & Scholarship
 ------
+While I was enrolled in this class I was also working as a Graduate Student Researcher with the Digital Humanities. As a result, I completed a project where I used data from the Digital Humanities Program to develop a set of [DH minor core competencies](https://sites.google.com/g.ucla.edu/is289/home) using textual mining. For more on the methodology and workflow of this project, see the [project statement](/files/IS289.pdf).
 
 IS 271: Introduction to Computer Systems and Programming
 ------
+While there was no culmulative final project for this class, the skills gained have manifested in various other projects and jobs. In particular, I used programming occasionally during my internship with the Digital Library Program to automate and optimize some of the processes of daily tasks. I also used my knowledge of programming to perform various tasks as a Research and Technology Instructional Consultant.
 
 ENG 203: Computers and Literary Research
 ------
+For this class I worked my classmate Dylan Karlsson to create a final project on [Twine](https://twinery.org/), [Of Hassles and Lifehacks](https://dylandnick.itch.io/of-hassles-and-lifehacks). This was an exploratory project that touched on themes discussed throughtout the seminar.
+
+After using Twine in this course, I also employed on a different project for a separate course, IS 480: Introduction to Media Archiving & Preservation, where I worked with a group to survey the current state of [archiving complex multimedia objects with a focus on video games](https://nschwiet.itch.io/media-archiving-and-preservation-final).
 
 DH 299: Directed Research in Digital Humanities
 ------
-
+Currently I am enrolled in the DH Capstone with Willeke Wendrich where I am working with archaeological data. For this course, I am working with a classmate to study the design and workflows of data gathering and analysis in preparation for upcoming data entry changes in the field.
