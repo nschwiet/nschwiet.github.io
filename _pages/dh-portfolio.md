@@ -32,10 +32,21 @@ While there was no culmulative final project for this class, the skills gained h
 
 [ENG 203: Computers and Literary Research](https://meta.humspace.ucla.edu/tmi/)
 ------
-For this class I worked my classmate Dylan Karlsson to create a final project on [Twine](https://twinery.org/), [Of Hassles and Lifehacks](https://dylandnick.itch.io/of-hassles-and-lifehacks). This was an exploratory project that touched on themes discussed throughtout the seminar.
+For this class I worked a classmate to create a final project on [Twine](https://twinery.org/), [Of Hassles and Lifehacks](https://dylandnick.itch.io/of-hassles-and-lifehacks). This was an exploratory project that touched on themes discussed throughtout the seminar.
 
 After using Twine in this course, I also employed on a different project for a separate course, IS 480: Introduction to Media Archiving & Preservation, where I worked with a group to survey the current state of [archiving complex multimedia objects with a focus on video games](https://nschwiet.itch.io/media-archiving-and-preservation-final).
 
 DH 299: Directed Research in Digital Humanities
 ------
 Currently I am enrolled in the DH Capstone with Willeke Wendrich where I am working with archaeological data. For this course, I am working with a classmate to study the design and workflows of data gathering and analysis in preparation for upcoming data entry changes in the field.
+
+
+[Professional Work](/cv)
+======
+As part of my student journey I worked several jobs, all of which contained a digital dimension. This section highlights a few of my professional experiences that resulted in Digital Humanities projects or similar.
+
+
+Digital Humanities GSR
+------
+I worked as a Graduate Student Researcher for the Digital Humanities Program where I created an [interactive visualization](https://public.tableau.com/profile/nickschwieterman#!/vizhome/taxonomy_15718442080640/Dashboard2) for locating elective courses in the minor based on primary and secondary approaches to knowledge and practice.
+
