@@ -28,7 +28,7 @@ Work experience
 * **Summer Research Fellow in Digital Scholarship and Methods** – Johanna Drucker, Summer 2020
   * Research the current state of digital scholarship in humanities and social sciences.
 
-* **Research and Instructional Technology Consultant** – UCLA Humanities Technology, 2019-2020
+* **Research and Instructional Technology Consultant** – UCLA Humanities Technology, 2019-
   * Support the Humanities with technological needs. Advance Digital Humanities faculty research projects.
 
 * **Digital Library Intern** – UCLA Digital Library Program, Summer 2019
@@ -41,8 +41,7 @@ Work experience
   * Perform analysis on curricular materials and survey results in order to develop a high level overview of the Digital Humanities minor.
 
 * **Instructional Technologist** – UCLA Extension: Instructional Design and Learning Support, 2013-2018
-  * Research and implement new technologies and methodologies for providing online learning experiences; develop and deliver training materials through courses, information portals, and workshops; manage system
-implementations and ensure systems are integrated in a way that maximizes the user experience.
+  * Research and implement new technologies and methodologies for providing online learning experiences; develop and deliver training materials through courses, information portals, and workshops; manage system implementations and ensure systems are integrated in a way that maximizes the user experience.
 
 Skills
 ======
