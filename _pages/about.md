@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MLIS student in the Department of Information Studies at UCLA. My interests include surveillance, aesthetics, and games. 
+I am an PhD student in the Department of Information Studies at UCLA. My interests include surveillance, aesthetics, and games. 
 
 Portfolios
 ======
